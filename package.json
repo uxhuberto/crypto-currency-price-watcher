@@ -1,0 +1,28 @@
+{
+  "name": "crypto-currency-price-watcher",
+  "version": "1.0.1",
+  "description": "A library to track real-time cryptocurrency prices.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uxhuberto/crypto-currency-price-watcher"
+  },
+  "keywords": [
+    "crypto",
+    "coin",
+    "watch",
+    "watcher",
+    "price",
+    "usd"
+  ],
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ws": "^7.4.5",
+    "dotenv": "^8.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
